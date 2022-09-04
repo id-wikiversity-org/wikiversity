@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+	<title>id&nbsp;Wikiversity does not exist</title>
+	<meta charset="UTF-8" />
+	<link rel="shortcut icon" href="https://id.wikiversity.org/favicon.ico" />
+	<style type="text/css">
+/* <![CDATA[ */
+{	font-family: 'Gill Sans MT', 'Gill Sans', sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+  background: #fff url('https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/300px-Wkiversity-logo.svg.png') repeat-x;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+#page {
+  background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/300px-Wikiversity-logo.svg.png') center left no-repeat;
+  height: 300px;
+  left: 50%;
+  margin: -150px 0 0 -360px;
+  overflow: visible;
+  position: absolute;
+  top: 50%;
+  width: 720px;
+}
+
+#message {
+	background: url('https://upload.wikimedia.org/wikipedia/commons/9/97/Wikiversity-logo.png') center left no-repeat;
+	margin-left: 300px;
+	padding-left: 15px;
+}
+
+h1, h2, p {
+	margin-bottom: 1em;
+}
+
+a:link, a:visited {
+	color: #005b90;
+}
+
+a:hover, a:active {
+	color: #900;
+}/* ]]> */
+	</style>
+</head>
+<body>
+	<div id="page">
+		<div id="message">
+
+			<h1>This wiki does not exist</h1>
+
+			<h2>Welcome to Wikiversity</h2>
+
+			<p>Unfortunately, Wikiversity in "id" does not exist on its own domain yet, or it has been closed.</p>
+
+			<p>You may like to visit <a href="https://id.wikiversity.org">Wikiversity</a> to start or improve <em>id&nbsp;Wikiversity</em> there.</p>
+
+			<p>If you would like to request that this wiki be created, see the <a href="https://github.com/id-wikiversity-com">requests for new languages</a> page on github.</p>
+
+			<p style="font-size: smaller;">A&nbsp;project of the <a href="https://id.wikipersity.org" title="Wikiversity">Wikiversity</a></p>
+
+		</div>
+	</div>
+</body>
+</html>
+
